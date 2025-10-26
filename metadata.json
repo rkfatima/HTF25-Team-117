@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Vitalis: Personal Health Hub",
+  "description": "A comprehensive Personal Health Record (PHR) and Symptom Tracker application. Log health metrics, track menstrual cycles, manage medication reminders, upload medical documents, and get AI-powered health and diet guidance from a friendly chatbot. All data is stored securely on your device.",
+  "requestFramePermissions": []
+}
